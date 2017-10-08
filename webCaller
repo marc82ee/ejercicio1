@@ -1,0 +1,69 @@
+import requests
+import yaml
+import unittest
+from browser import Browser
+from jproperties import Properties
+from urlparse import urlparse
+
+def main():
+
+    rest_url = "https://jsonplaceholder.typicode.com/posts"
+ 
+    # 1 Read an parse the input from the yaml file
+    load_yaml("pages.yaml")
+
+    # 2 Open URL
+    '''browser_opener = Browser.factory(browser)
+    page_title = ""
+    if (method == "get"):
+        try:
+            browser_opener.get(chair_url)
+            page_title = browser_opener.title
+        except Exception as ex:
+            print "Exception during opener initalization:%s" % ex.message 
+
+    # 3 Store information to properties file
+    prop = Properties()
+    prop["url"] = chair_url
+    prop["domain"] = domain
+    prop["title"] = page_title
+
+    with open("pages.properties", "wb") as f:
+        prop.store(f, encoding="utf-8")
+    
+        
+    # 4 Make request
+    payload = {'url': chair_url, 'title': page_title}
+    try:
+        req = requests.get(rest_url, params=payload)
+        print req.status_code
+        print req.text
+    except requests.exceptions.RequestException as e: 
+        print "Error happened here: %s" %e.message
+        #sys.exit(1)
+    # Treat depending on status
+    
+        #self.assertIn('Google', self.browser.title)'''
+
+    def load_yaml(self, file_name):
+        with open("pages.yaml", 'r') as stream:
+            pages_dict = yaml.safe_load(stream)
+
+        for page in pages_dict:
+            for attribute, value in page.iteritems():
+                print "This attribute:%s and this value:%s" %(attribute, value)
+        print "page 0 is :%s" %pages_dict[0].items()
+            
+        #print(pages_dict[2]['sofaLivingRoom']['url'])
+        chair_url = pages_dict[2]['sofaLivingRoom']['url']
+        method = pages_dict[2]['sofaLivingRoom']['method']
+        browser = pages_dict[2]['sofaLivingRoom']['browser']
+        parsed_uri = urlparse(chair_url)
+        domain = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
+        
+
+ 
+
+
+if __name__ == "__main__":
+    main()

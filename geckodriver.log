@@ -1,0 +1,328 @@
+1507413464048	geckodriver	INFO	geckodriver 0.19.0
+1507413464053	geckodriver	INFO	Listening on 127.0.0.1:58912
+1507413465133	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.giC9zhejCFKL"
+1507413465729	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507413466228	Marionette	INFO	Enabled via --marionette
+2017-10-07 23:57:48.236 plugin-container[56203:8946163] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-07 23:57:48.237 plugin-container[56203:8946163] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507413468633	Marionette	INFO	Listening on port 58921
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507413468701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507413468747	Marionette	DEBUG	loaded listener.js
+1507413468769	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507413469955	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507413469956	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507413472018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507413474558	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507413585393	geckodriver	INFO	geckodriver 0.19.0
+1507413585397	geckodriver	INFO	Listening on 127.0.0.1:59318
+1507413586460	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.abzbBU4VW8R2"
+1507413586860	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507413587303	Marionette	INFO	Enabled via --marionette
+1507413589201	Marionette	INFO	Listening on port 59327
+1507413589308	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-10-07 23:59:49.349 plugin-container[56349:8948642] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-07 23:59:49.350 plugin-container[56349:8948642] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507413589399	Marionette	DEBUG	loaded listener.js
+1507413589419	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507413590528	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507413590529	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507413592446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507413594954	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507413700755	geckodriver	INFO	geckodriver 0.19.0
+1507413700761	geckodriver	INFO	Listening on 127.0.0.1:59700
+1507413701823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.wIfiwEts6736"
+1507413702247	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507413702717	Marionette	INFO	Enabled via --marionette
+1507413704994	Marionette	INFO	Listening on port 59709
+1507413705071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-10-08 00:01:45.118 plugin-container[56488:8951128] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:01:45.120 plugin-container[56488:8951128] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa607, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507413705182	Marionette	DEBUG	loaded listener.js
+1507413705205	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507413706663	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507413706663	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507413709586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507413712134	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507413879377	geckodriver	INFO	geckodriver 0.19.0
+1507413879385	geckodriver	INFO	Listening on 127.0.0.1:60250
+1507413880443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.kObPflQCC3cA"
+1507413880864	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507413881312	Marionette	INFO	Enabled via --marionette
+1507413883314	Marionette	INFO	Listening on port 60261
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507413883405	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-10-08 00:04:43.454 plugin-container[56696:8954828] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:04:43.456 plugin-container[56696:8954828] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507413883514	Marionette	DEBUG	loaded listener.js
+1507413883538	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507413885091	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507413885091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507413887438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507413889884	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507414879834	geckodriver	INFO	geckodriver 0.19.0
+1507414879840	geckodriver	INFO	Listening on 127.0.0.1:62382
+1507414880905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.fdv3R7LBfUeU"
+1507414881479	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507414881979	Marionette	INFO	Enabled via --marionette
+1507414884208	Marionette	INFO	Listening on port 62391
+2017-10-08 00:21:24.247 plugin-container[57740:8973169] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:21:24.250 plugin-container[57740:8973169] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507414884284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507414884343	Marionette	DEBUG	loaded listener.js
+1507414884380	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507414885509	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507414885510	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507414887709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507414890388	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507415002375	geckodriver	INFO	geckodriver 0.19.0
+1507415002381	geckodriver	INFO	Listening on 127.0.0.1:62915
+1507415003447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.o4nifwRueCIk"
+1507415003914	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507415004381	Marionette	INFO	Enabled via --marionette
+1507415006785	Marionette	INFO	Listening on port 62928
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507415006897	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-10-08 00:23:26.952 plugin-container[57892:8976449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:23:26.954 plugin-container[57892:8976449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507415007000	Marionette	DEBUG	loaded listener.js
+1507415007024	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507415009094	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507415009096	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507415011811	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507415014736	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507415195823	geckodriver	INFO	geckodriver 0.19.0
+1507415195828	geckodriver	INFO	Listening on 127.0.0.1:63505
+1507415196889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.q5GVRqblDtP3"
+1507415197333	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507415197861	Marionette	INFO	Enabled via --marionette
+2017-10-08 00:26:39.478 plugin-container[58118:8980811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:26:39.480 plugin-container[58118:8980811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507415199750	Marionette	INFO	Listening on port 63514
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507415199836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507415199880	Marionette	DEBUG	loaded listener.js
+1507415199904	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507415200960	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507415200960	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507415203137	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507415205801	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+2017-10-08 00:27:05.435 plugin-container[58159:8981817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:27:05.437 plugin-container[58159:8981817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507415764529	geckodriver	INFO	geckodriver 0.19.0
+1507415764534	geckodriver	INFO	Listening on 127.0.0.1:65148
+1507415765599	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.roSvaIfCzA3x"
+1507415766145	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507415766635	Marionette	INFO	Enabled via --marionette
+1507415768944	Marionette	INFO	Listening on port 65157
+2017-10-08 00:36:08.967 plugin-container[58760:8992858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:36:08.968 plugin-container[58760:8992858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507415769014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507415769070	Marionette	DEBUG	loaded listener.js
+1507415769101	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507415770538	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507415770540	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507415772884	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507415775310	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416035683	geckodriver	INFO	geckodriver 0.19.0
+1507416035689	geckodriver	INFO	Listening on 127.0.0.1:49725
+1507416036748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.hAQ8WKE233o3"
+1507416037159	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507416037616	Marionette	INFO	Enabled via --marionette
+1507416039747	Marionette	INFO	Listening on port 49734
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507416039822	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-10-08 00:40:39.825 plugin-container[59100:8999033] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:40:39.826 plugin-container[59100:8999033] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507416039881	Marionette	DEBUG	loaded listener.js
+1507416039905	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507416041087	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507416041087	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507416043065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416045651	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416114912	geckodriver	INFO	geckodriver 0.19.0
+1507416114917	geckodriver	INFO	Listening on 127.0.0.1:50110
+1507416115981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.u9W7K6LngsLM"
+1507416116368	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507416116810	Marionette	INFO	Enabled via --marionette
+1507416118678	Marionette	INFO	Listening on port 50119
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507416118765	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-10-08 00:41:58.771 plugin-container[59218:9001178] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:41:58.772 plugin-container[59218:9001178] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507416118826	Marionette	DEBUG	loaded listener.js
+1507416118848	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507416119892	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507416119892	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507416121770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416124202	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416512136	geckodriver	INFO	geckodriver 0.19.0
+1507416512142	geckodriver	INFO	Listening on 127.0.0.1:51191
+1507416513198	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.VUTAOekvxp7s"
+1507416513733	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507416514217	Marionette	INFO	Enabled via --marionette
+2017-10-08 00:48:36.412 plugin-container[59679:9009526] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:48:36.413 plugin-container[59679:9009526] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507416516441	Marionette	INFO	Listening on port 51200
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507416516555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507416516610	Marionette	DEBUG	loaded listener.js
+1507416516632	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507416518283	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507416518283	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507416520487	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416523229	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416681356	geckodriver	INFO	geckodriver 0.19.0
+1507416681361	geckodriver	INFO	Listening on 127.0.0.1:51978
+1507416682420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.P07V7qpLXhRS"
+1507416682818	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507416683262	Marionette	INFO	Enabled via --marionette
+2017-10-08 00:51:25.234 plugin-container[59912:9013558] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:51:25.236 plugin-container[59912:9013558] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507416685254	Marionette	INFO	Listening on port 51991
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507416685351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507416685396	Marionette	DEBUG	loaded listener.js
+1507416685417	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507416686825	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507416686826	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507416689300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416691730	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416731533	geckodriver	INFO	geckodriver 0.19.0
+1507416731539	geckodriver	INFO	Listening on 127.0.0.1:52456
+1507416732605	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.RrcBmgPZ3vXc"
+1507416733011	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507416733485	Marionette	INFO	Enabled via --marionette
+1507416735533	Marionette	INFO	Listening on port 52465
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507416735636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507416735722	Marionette	DEBUG	loaded listener.js
+2017-10-08 00:52:15.769 plugin-container[60015:9015469] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 00:52:15.770 plugin-container[60015:9015469] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507416735780	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507416736831	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507416736831	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507416738986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507416741429	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507418448449	geckodriver	INFO	geckodriver 0.19.0
+1507418448454	geckodriver	INFO	Listening on 127.0.0.1:56162
+1507418449521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.3rdg1UTcyLht"
+1507418450060	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507418450540	Marionette	INFO	Enabled via --marionette
+1507418452829	Marionette	INFO	Listening on port 56175
+1507418452918	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-10-08 01:20:52.937 plugin-container[61814:9047013] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-08 01:20:52.939 plugin-container[61814:9047013] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507418452985	Marionette	DEBUG	loaded listener.js
+1507418453008	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507418454499	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507418454501	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507418457012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507418459303	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507500637937	geckodriver	INFO	geckodriver 0.19.0
+1507500637942	geckodriver	INFO	Listening on 127.0.0.1:54652
+1507500638995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.tmD2vPRR83E2"
+1507500639363	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507500639817	Marionette	INFO	Enabled via --marionette
+2017-10-09 00:10:41.410 plugin-container[8857:15572528] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-09 00:10:41.416 plugin-container[8857:15572528] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507500641660	Marionette	INFO	Listening on port 54665
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507500641719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507500641763	Marionette	DEBUG	loaded listener.js
+1507500641783	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507500643119	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507500643120	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507500645159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507500647372	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507503639450	geckodriver	INFO	geckodriver 0.19.0
+1507503639455	geckodriver	INFO	Listening on 127.0.0.1:50279
+1507503640521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.2e1kBJrq0BRz"
+1507503641097	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507503641595	Marionette	INFO	Enabled via --marionette
+1507503644208	Marionette	INFO	Listening on port 50292
+1507503644405	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-10-09 01:00:44.437 plugin-container[12279:15636164] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-09 01:00:44.439 plugin-container[12279:15636164] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507503644534	Marionette	DEBUG	loaded listener.js
+1507503644573	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507503646516	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507503646518	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507503651438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507503655170	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507503840049	geckodriver	INFO	geckodriver 0.19.0
+1507503840054	geckodriver	INFO	Listening on 127.0.0.1:51136
+1507503841120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.L3Q2Wc56TXxX"
+1507503841671	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507503842172	Marionette	INFO	Enabled via --marionette
+1507503844376	Marionette	INFO	Listening on port 51149
+1507503844446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507503844525	Marionette	DEBUG	loaded listener.js
+2017-10-09 01:04:04.555 plugin-container[12533:15641131] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-09 01:04:04.556 plugin-container[12533:15641131] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507503844565	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507503845667	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507503845668	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507503847643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507503849926	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507503961713	geckodriver	INFO	geckodriver 0.19.0
+1507503961718	geckodriver	INFO	Listening on 127.0.0.1:51816
+1507503962774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xz/cgbgp7rn72l72ntbjtzk8cf00000gn/T/rust_mozprofile.eNLdmbibSKal"
+1507503963175	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507503963629	Marionette	INFO	Enabled via --marionette
+2017-10-09 01:06:05.371 plugin-container[12702:15644540] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-09 01:06:05.372 plugin-container[12702:15644540] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa507, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507503965667	Marionette	INFO	Listening on port 51829
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507503965730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507503965793	Marionette	DEBUG	loaded listener.js
+1507503965818	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507503967294	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507503967297	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507503969325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"
+1507503971396	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH"

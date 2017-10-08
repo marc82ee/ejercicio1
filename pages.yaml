@@ -1,0 +1,12 @@
+- chairHome:
+    url: https://www.flipkart.com/ks-chairs-leatherette-office-arm-chair/p/itmerxr7dzavsdy3?pid=OSCERXR7SRGYRNG7&srno=b_1_14&otracker=browse&lid=LSTOSCERXR7SRGYRNG7ZYF06Y&iid=c5ccc5ad-f3a9-4492-b893-2428f656c479.OSCERXR7SRGYRNG7.SEARCH
+    browser: firefox
+    method: get
+- chairOffice:  
+    url: http://www.ikea.com/us/en/catalog/products/10282117/  
+    browser: chrome  
+    method: post
+- sofaLivingRoom:
+    url: https://www.thesofacompany.es/coleccion-hogar/#prettyPhoto[gallery1]/4/ 
+    browser: chrome 
+    method: get
